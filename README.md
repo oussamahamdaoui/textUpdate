@@ -1,1 +1,1 @@
-<img src="/hello.svg?raw=true">
+<img src="/hello.svg">
