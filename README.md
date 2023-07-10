@@ -1,1 +1,1 @@
-<img src="./hello.svg">
+<img src="https://svg.tutorial.aptico.de/grafik_svg/dummy3.svg">
