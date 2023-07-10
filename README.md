@@ -1,1 +1,1 @@
-<svg><text>hello</text></svg>
+<img src="https://raw.githubusercontent.com/oussamahamdaoui/textUpdate/main/hello.svg">
