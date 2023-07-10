@@ -1,1 +1,1 @@
-<img src="hello2.svg"> name is
+<img src="hello.svg"> name is
